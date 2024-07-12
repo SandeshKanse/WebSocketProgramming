@@ -1,0 +1,17 @@
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\bin\Debug\DAL.dll
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\bin\Debug\DAL.pdb
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CopyComplete
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\ServerSide\obj\Debug\ServerSide.pdb
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\obj\Debug\ServerSide.pdb
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\bin\Debug\DAL.dll
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\ServerSide\bin\Debug\DAL.pdb

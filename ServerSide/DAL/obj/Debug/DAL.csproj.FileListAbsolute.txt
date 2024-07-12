@@ -1,0 +1,20 @@
+C:\Users\IMRAN ASIF\documents\visual studio 2017\Projects\Lesson14_CMS\DAL\bin\Debug\DAL.dll
+C:\Users\IMRAN ASIF\documents\visual studio 2017\Projects\Lesson14_CMS\DAL\bin\Debug\DAL.pdb
+C:\Users\IMRAN ASIF\documents\visual studio 2017\Projects\Lesson14_CMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\IMRAN ASIF\documents\visual studio 2017\Projects\Lesson14_CMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\IMRAN ASIF\documents\visual studio 2017\Projects\Lesson14_CMS\DAL\obj\Debug\DAL.dll
+C:\Users\IMRAN ASIF\documents\visual studio 2017\Projects\Lesson14_CMS\DAL\obj\Debug\DAL.pdb
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson13\Lesson14_CMS\DAL\bin\Debug\DAL.dll
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson13\Lesson14_CMS\DAL\bin\Debug\DAL.pdb
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson13\Lesson14_CMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson13\Lesson14_CMS\DAL\obj\Debug\DAL.dll
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson13\Lesson14_CMS\DAL\obj\Debug\DAL.pdb
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\DAL\bin\Debug\DAL.dll
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\DAL\bin\Debug\DAL.pdb
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\DAL\obj\Debug\DAL.dll
+F:\E-drive-office\NUML\YoutubeChannel\C_Sharp_Tutorial\Lesson21\ServerSide\DAL\obj\Debug\DAL.pdb
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\DAL\bin\Debug\DAL.dll
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\DAL\bin\Debug\DAL.pdb
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\DAL\obj\Debug\DAL.dll
+C:\Users\spl0472\Downloads\SocketProgramming\ServerSide\DAL\obj\Debug\DAL.pdb
